@@ -2,10 +2,15 @@
 ***
 
 # Contact information:
+
 **Phone:** +38 098 3647213
+
 **E-mail:** vlad.vit.kushnir@gmail.com
+
 **GitHub:** [vladkushn1r](https://github.com/vladkushn1r)
+
 **Telegram**  https://t.me/vladkushnir856
+
 ***
 
 # About Me
@@ -18,7 +23,7 @@ My main goals are to improve my English and learn front-end. I graduated from un
 * Git/GitHub
 ***
 
-#Code examples
+# Code examples
 ```
 function bmi(weight, height) {
 
