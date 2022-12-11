@@ -22,3 +22,24 @@ My main goals are to improve my English and learn front-end. I graduated from un
 * Javascript
 * Git/GitHub
 ***
+# Code examples
+```
+function bmi(weight, height) {
+
+  const bmi = weight/(height*height);
+  
+  return bmi <= 18.5 ? 'Underweight': bmi <= 25 ? 'Normal': bmi <= 30 ? 'Overweight': 'Obese';
+}
+```
+# Education:
+
+* Vinnytsia National Technical University
+    + Computer engineering and software
+* beONmax  
+    + Web developer 2021 - from scratch to the result!
+    + JavaScript - a complete course from scratch to results!
+
+    # Languages:
+* English - A2
+* Russian - Fluent 
+* Ukrainian  - Native
